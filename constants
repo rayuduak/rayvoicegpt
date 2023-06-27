@@ -1,0 +1,5 @@
+# Correct below for your own variables
+openai_api_type = "azure"
+openai_api_version = "2023-05-15-preview"
+openai_api_key ="$$$$$$$$$$$$$$"
+openai_api_base = "https://www.azureopenai.com"
